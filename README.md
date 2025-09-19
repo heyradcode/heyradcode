@@ -30,11 +30,9 @@
 
 ## 📂 Some of My Repos
 
-- [simple_tracker](https://github.com/heyradcode/simple_tracker)
-- [circular-ring-app](https://github.com/heyradcode/circular-ring-app)
-- [stack-frontend](https://github.com/heyradcode/stack-frontend)
-- [stack-backend](https://github.com/heyradcode/stack-backend)
-- [wenite-repo (collab)](https://github.com/jaesow/wenite-repo)
+- [cfx-tasks-dashboard](https://github.com/heyradcode/cfx-tasks-dashboard)
+- [appointments-interview](https://github.com/heyradcode/appointments-interview)
+- [peach-frontend-coding-challlenge](https://github.com/heyradcode/peach-frontend-coding-challlenge)
 
 ---
 
