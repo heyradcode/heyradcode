@@ -24,6 +24,7 @@
 
 ## 🌟 Featured Project
 
+[![do-not-stop](https://github-readme-stats.vercel.app/api/pin/?username=heyradcode&repo=do-not-stop&theme=radical)](https://github.com/heyradcode/do-not-stop)
 [![appointments-interview](https://github-readme-stats.vercel.app/api/pin/?username=heyradcode&repo=appointments-interview&theme=radical)](https://github.com/heyradcode/appointments-interview)
 
 ---
