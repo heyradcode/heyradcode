@@ -1,4 +1,4 @@
-#### Featured Contributions
+## Featured Contributions
 <div align="left">
   <a href="https://github.com/radcrew/do-not-stop">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radcrew&repo=do-not-stop&theme=buefy&refresh=true" />
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-#### GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyradcode&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="165" />
