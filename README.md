@@ -1,3 +1,17 @@
+### About me
+I'm Rad, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
+
+- 🔭 I’m currently working on AI and Blockchain  
+  
+
+- 🌱 I’m currently learning Smart Contract Security  
+  
+
+- ❓ Ask me about anything related to Full Stack Web&Mobile, Blockchain, and AI  
+  
+
+- ⚡ Fun fact: I treat code quality as a feature.  
+  
 ### Featured Contributions
 <div align="left">
   <a href="https://github.com/radcrew/do-not-stop">
