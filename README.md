@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://github.com/OpenBazaar/haven">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBazaar&repo=haven&theme=buefy&refresh=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBazaar&repo=haven&theme=buefy&refresh=false" />
   </a>
 </div>
 <br>
