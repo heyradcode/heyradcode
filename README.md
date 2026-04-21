@@ -45,5 +45,5 @@ addEventListener("new_technologies", () => {
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyradcode&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=heyradcode&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyradcode" alt="GitHub Stats" height="165" />
 </div>
