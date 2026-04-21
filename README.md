@@ -1,4 +1,3 @@
-<br>
 
 ### About me
 I'm Rad, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
