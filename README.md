@@ -3,7 +3,7 @@
 I'm Rad, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
 
 - 🔭 I’m currently working on AI and Blockchain.
-- 🌱 I’m currently learning Smart Contract Security.
+- 🌱 I’m currently learning Rust.
 - ❓ Ask me about anything related to Full Stack Web&Mobile, Blockchain, and AI.  
 - ⚡ Fun fact: I treat code quality as a feature.
 
