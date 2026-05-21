@@ -21,8 +21,9 @@ addEventListener("new_technologies", () => {
 });
 ```
 
+<!--
 ### Featured Contributions
-<div align="left">
+ <div align="left">
   <a href="https://github.com/radcrew/do-not-stop">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radcrew&repo=do-not-stop&theme=buefy&tick=0" />
   </a>
@@ -37,11 +38,12 @@ addEventListener("new_technologies", () => {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiftyLeague&repo=OGNiftyLeagueApp&theme=buefy&tick=0" />
   </a>
 </div>
+-->
 
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyradcode&show_icons=true&locale=en&layout=compact&theme=transparent&tick=0" alt="Top Languages" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyradcode&show_icons=true&locale=en&layout=compact&theme=transparent&tick=0" alt="Top Languages" height="165" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyradcode&tick=0" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyradcode&include_all_commits=true&tick=0" alt="heyradcode" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=heyradcode&include_all_commits=true&tick=0" alt="heyradcode" /> -->
 </div>
